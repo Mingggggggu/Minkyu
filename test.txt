@@ -1,5 +1,9 @@
 안녕하세요
 test
 test2
+<<<<<<< HEAD
 
 main test3
+=======
+test에서 test3
+>>>>>>> test
